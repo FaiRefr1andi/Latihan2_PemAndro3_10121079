@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    // Image Descriptions (contentDescription)
+    <string name="a_ladybug_clutching_a_braconid_description">Ladybug Clutching a Braconid</string>
+    <string name="hungry_polar_bear_description">Hungry Polar Bear</string>
+    <string name="the_space_shuttle_endeavour_description">Humble Android</string>
+    <string name="colored_cardinalfish_description">A school of brightly colored cardinalfish</string>
+
+    // Image Titles
+    <string name="a_ladybug_clutching_a_braconid_title">A Ladybug\n</string>
+    <string name="hungry_polar_bear_title">Hungry Polar Bear\n</string>
+    <string name="the_space_shuttle_endeavour_title">The Space Shuttle\n</string>
+    <string name="colored_cardinalfish_title">Colored Cardinalfish\n</string>
+
+    // Image Authors
+    <string name="author_anand">"Photo by Anand Varma "</string>
+    <string name="author_paul">"Photo by Paul Nicklen "</string>
+    <string name="author_winters">"Photo by Dan Winters "</string>
+    <string name="author_cristina">"Photo by Cristina Mittermeier "</string>
+
+    // Image Release Years
+    <string name="twentyfourteen">(2014)</string>
+    <string name="twentyofour">(2004)</string>
+    <string name="twentyeleven">(2011)</string>
+    <string name="twentytwentyone">(2021)</string>
+
+    // Buttons
+    <string name="next_button">Lanjut</string>
+    <string name='previous_button'>Sebelumnya</string>
+</resources>
